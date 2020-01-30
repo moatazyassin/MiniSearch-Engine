@@ -1,0 +1,19 @@
+CASE1:
+======
+[Using Search Links (Scenario 1 & 2).txt]
+1- Amiricens mangmnt sestm
+	a- Its correct form according to the given dictionary: American Management Systems
+	b- Then, search results (with the final written char):
+		American Management Systems
+		
+CASE2:
+======
+[Using Search Links (Scenario 3).txt]
+Try to type:
+1- amasing spider_man 
+	a- Its correct form according to the given dictionary: amazing spiderman
+	b- Then, search results:
+		The amazing spiderMan
+		The amazing spiderMan 2
+
+
